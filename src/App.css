@@ -1,0 +1,39 @@
+.box{
+  width: 60rem;
+  margin:auto;
+  height: 35rem;
+  box-shadow: 0 0 10px gray;
+  padding: 20px;
+}
+.line{
+  border-bottom: 2px dotted black;
+}
+.line2{
+  border-bottom: 2px solid black;
+}
+.line3{
+  display: flex ;
+  justify-content: space-between;
+}
+.line4{
+  border: 2px solid black;
+  height: 1.5rem;
+  width: 4rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 5px;
+  border-radius: 5px;
+
+}
+.line5{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+button{
+  background-color: black;
+  color: white;
+  height: 1.5rem;
+  width: 6rem;
+}
